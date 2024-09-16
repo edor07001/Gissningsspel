@@ -1,0 +1,14 @@
+C:\Github\Gissningsspel\bin\Debug\net8.0\Gissningsspel.exe
+C:\Github\Gissningsspel\bin\Debug\net8.0\Gissningsspel.deps.json
+C:\Github\Gissningsspel\bin\Debug\net8.0\Gissningsspel.runtimeconfig.json
+C:\Github\Gissningsspel\bin\Debug\net8.0\Gissningsspel.dll
+C:\Github\Gissningsspel\bin\Debug\net8.0\Gissningsspel.pdb
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.AssemblyInfoInputs.cache
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.AssemblyInfo.cs
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.csproj.CoreCompileInputs.cache
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.dll
+C:\Github\Gissningsspel\obj\Debug\net8.0\refint\Gissningsspel.dll
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.pdb
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.genruntimeconfig.cache
+C:\Github\Gissningsspel\obj\Debug\net8.0\ref\Gissningsspel.dll
