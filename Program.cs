@@ -7,17 +7,7 @@ int y = 1;
 
 while(tal != rand1)
 {
-    if (tal > rand1)
-    {
-        Console.WriteLine("Talet är mindre, gissa igen:");
-    }
-    
-    else if (tal < rand1)
-    {
-        Console.WriteLine("Talet är större, gissa igen:");
-    }
-
-    else if (tal > 100)
+    if (tal > 100)
     {
         Console.WriteLine("Gissningen är för hög gissa mellan 1 och 100");
     }
@@ -25,6 +15,16 @@ while(tal != rand1)
     else if (tal < 1)
     {
         Console.WriteLine("Gissningen är för låg gissa mellan 1 och 100");
+    }
+
+    else if (tal > rand1)
+    {
+        Console.WriteLine("Talet är mindre, gissa igen:");
+    }
+    
+    else if (tal < rand1)
+    {
+        Console.WriteLine("Talet är större, gissa igen:");
     }
     
     tal = int.Parse(Console.ReadLine());

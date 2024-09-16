@@ -12,3 +12,4 @@ C:\Github\Gissningsspel\obj\Debug\net8.0\refint\Gissningsspel.dll
 C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.pdb
 C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.genruntimeconfig.cache
 C:\Github\Gissningsspel\obj\Debug\net8.0\ref\Gissningsspel.dll
+C:\Github\Gissningsspel\obj\Debug\net8.0\Gissningsspel.sourcelink.json
