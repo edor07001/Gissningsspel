@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Github\\Gissningsspel\\Gissningsspel.csproj",
         "projectName": "Gissningsspel",
         "projectPath": "C:\\Github\\Gissningsspel\\Gissningsspel.csproj",
-        "packagesPath": "C:\\Users\\edor07001\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Edvin\\.nuget\\packages\\",
         "outputPath": "C:\\Github\\Gissningsspel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edor07001\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Edvin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
